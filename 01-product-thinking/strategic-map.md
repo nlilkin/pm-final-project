@@ -1,11 +1,7 @@
-# Strategic Discovery Map
-
-> **Module 1 · Lab 1.** Repo file `01-product-thinking/strategic-map.md` — part of your submission.
-> Do the lab in the **Module 1 · Exercise 1 Guide** (linked from the Module 1 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It's the discovery groundwork behind your `problem-hook.md`.
+# Strategic Discovery Map (Module 1)
 
 ## Responses
-
-- **Feature with no strategic answer (why is this a 12-week priority?):** _(not filled in)_
-- **Feature that looks "correct" but has zero strategic weight:** _(not filled in)_
-- **V3 vs your Step 1 baseline — what changed, and was it your PM knowledge that forced usefulness?:** _(not filled in)_
+- **Write one feature from the map that, if an engineer asked “why is this a priority for our 12-week roadmap?”, you honestly could not give a strategic answer for.:** I had several features areas such as Insights(Trends and patterns, Daily weekly charts), Goals(Personal target) and others such as providing Logging (Custom drinks and Quick-add cup & bottle sizes). I couldn’t give a strategic answer for Custom drinks logging in the next 12 weeks. Since for this implementation we need a bigger catalogue of drinks that might require further investigations and I don't know how it would relate to water tracking. 
+- **Write one feature that looks “correct” for the app but has zero strategic weight, you have no idea if it helps the company make money or whether a single user actually asked for it.:** I have Integrations feature on the mind map, and it looks correct to have an integrations with other applications so that we could be part of a whole ecosystem.
+- **Compare V3 to your Step 1 baseline. What changed, and is the output objectively better, did the AI get smarter, or did your added PM knowledge (JTBD, effort/impact, retention) force it to be useful?:** This version provided better, more structured output in which I can more easily identify the features and why are they need. With this answer I could create better personas that might use the application.
+- **Key takeaway: how does this prove the PM’s role is to think while the AI’s role is to execute?:** The last version showed me a more concrete answer that could provide more insights and guide me better in which direction to go.
